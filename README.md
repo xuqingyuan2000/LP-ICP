@@ -5,7 +5,7 @@
   <img src="figure/PLAM_dataset.png" width="557" height="280"> 
 </p>
 <br>
-<p align="center" style="margin-left: 10000px;">
+<p align="center" style="margin-left: 10cm;">
   <img src="figure/trajectory.jpg" width="557" height="258">
 </p>
 
