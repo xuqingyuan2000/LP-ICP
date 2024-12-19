@@ -6,6 +6,6 @@
 </p>
 <br>
 <p align="center">
-  <img src="figure/trajectory.jpg" width="557" height="258">
+  <img src="figure/trajectory.jpg" width="668" height="310">
 </p>
 
