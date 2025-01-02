@@ -1,5 +1,5 @@
 # LP-ICP
-**LP-ICP: Localizability-Aware LiDAR Registration Combining Point-to-Line and Point-to-Plane ICP for Robust Localization in Extreme Unstructured Environments**
+**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**
 <br>
 <p align="center">
   <img src="figure/PLAM_dataset.png" width="557" height="280"> 
